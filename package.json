@@ -1,0 +1,15 @@
+{
+	"name": "ffxiv-lds-item-scraper",
+	"version": "1.0.0",
+	"description": "A scraper to get source info of items if ffxiv lodesotne",
+	"dependencies": {
+		"apify": "^2.0.7",
+		"apify-cli": "^0.6.3"
+	},
+	"scripts": {
+		"start": "node main.js",
+		"test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+	},
+	"author": "Ariette",
+	"license": "MIT"
+}

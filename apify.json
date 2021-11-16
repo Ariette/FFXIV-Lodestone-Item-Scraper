@@ -1,0 +1,7 @@
+{
+	"name": "FFXIV-Lodestone-Item-Scraper",
+	"version": "1.0",
+	"buildTag": "latest",
+	"env": null,
+	"template": "project_cheerio_crawler"
+}
