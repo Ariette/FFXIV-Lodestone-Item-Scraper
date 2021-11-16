@@ -52,5 +52,11 @@ But you can freely use it for any purpose.
 
 <br>
 
+## Post-Process
+You can't use scrapped data for [Ariette/Project-Anyder](https://github.com/Ariette/Project-Anyder) in raw state.  
+`node ./postprocess.js [scrapped_data.json]` will convert the data to `lodestones.tsv`, `mob.json`, `ids.json`
+
+<br>
+
 ## Scrapped Data
 You can download scrapped data from [Release](https://github.com/Ariette/FFXIV-Lodestone-Item-Scraper/releases)
